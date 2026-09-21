@@ -6,6 +6,4 @@ Taylor<sup>4</sup>, Berta Verd<sup>4</sup>, Robert G. Parton<sup>3,5</sup>, and 
 <sup>2</sup>Centre for Mechanochemical Cell Biology, University of Warwick, Coventry, CV4 7AL, United Kingdom
 <sup>3</sup>Institute for Molecular Bioscience, The University of Queensland, Brisbane, Queensland 4072, Australia
 <sup>4</sup>Evolutionary Biology Section, Department of Biology, University of Oxford, United Kingdom
-<sup>5</sup>Centre for Microscopy and Microanalysis, The University of Queensland, Brisbane,
-Queensland 4072, Australia
-
+<sup>5</sup>Centre for Microscopy and Microanalysis, The University of Queensland, Brisbane, Queensland 4072, Australia
